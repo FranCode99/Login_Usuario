@@ -1,0 +1,13 @@
+Nombre de Usuarios / Contraseñas:
+
+ADMINISTRADOR
+Nombre: admin
+Contraseña: admin123
+
+JUGADOR NUEVO
+Nombre: juanperez
+Contraseña: 1234
+
+JUGADOR
+Nombre: marialopez
+Contraseña: maru123
